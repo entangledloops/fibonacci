@@ -3,6 +3,13 @@ import javax.swing.text.Highlighter;
 import javax.swing.text.JTextComponent;
 import java.awt.*;
 
+/**
+ * Some of the highlighter code was plagiarized and modified from StackOverflow posts now lost.
+ * If you recognize your own code snippets, send me the post link and I'll add it. Usually I
+ * document my sources in a comment directly, but as this was written some time ago and I can't
+ * remember where I acquired it from or why I didn't comment the link, I'm assuming I heavily
+ * modified the original post or just goofed and forgot.
+ * 
 class RowHighlighter extends DefaultHighlighter
 {
 
