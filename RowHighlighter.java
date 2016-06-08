@@ -9,7 +9,7 @@ import java.awt.*;
  * document my sources in a comment directly, but as this was written some time ago and I can't
  * remember where I acquired it from or why I didn't comment the link, I'm assuming I heavily
  * modified the original post or just goofed and forgot.
- * 
+ */
 class RowHighlighter extends DefaultHighlighter
 {
 
