@@ -1,7 +1,9 @@
 # Fibonacci Lab
 
- - A thrown-together Fibonacci number lab created for my little cousin, but that hopefully someone else might benefit from.
- - This is not intentionally **not** up to the same standards as my other projects; it was coded in a couple of hours.
+This is:
+ - meant to demonstrate the relationship between the Fibonacci sequence and the Golden Ratio;
+ - thrown-together for my little cousin and hopefully someone else might benefit from;
+ - intentionally **not** up to the same standards as my other projects, as it was coded in a couple of hours.
 
 ![Fibonacci Lab](http://www.entangledloops.com/img/fibonacci.png)
 
