@@ -1,5 +1,6 @@
 # Fibonacci Lab
-A thrown-together Fibonacci number lab created for my little cousin.
+A thrown-together Fibonacci number lab created for my little cousin, but that anyone might benefit from.
+This is not intended to be up to the same standards as my other projects, just a quick-and-dirty project written in a couple of hours.
 
 ![Fibonacci Lab](http://www.entangledloops.com/img/fibonacci.png)
 
