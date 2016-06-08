@@ -1,7 +1,7 @@
 # Fibonacci Lab
 
  - A thrown-together Fibonacci number lab created for my little cousin, but that hopefully someone else might benefit from.
- - This is not intended to be up to the same standards as my other projects; just a quick-and-dirty project written in a couple of hours.
+ - This is not intentionally *not* up to the same standards as my other projects; it's quick-and-dirty project coded in a few hours.
 
 ![Fibonacci Lab](http://www.entangledloops.com/img/fibonacci.png)
 
