@@ -1,7 +1,7 @@
 # Fibonacci Lab
 
 This is:
- - meant to demonstrate the relationship between the Fibonacci sequence and the Golden Ratio;
+ - **meant to demonstrate the relationship between the Fibonacci sequence and the Golden Ratio**;
  - thrown-together for my little cousin and hopefully someone else might benefit from;
  - intentionally **not** up to the same standards as my other projects, as it was coded in a couple of hours.
 
