@@ -10,14 +10,14 @@
 ## Instructions
 
 1. [Download](http://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html) and install a Java Development Kit (JDK; free) 1.8+ on your machine if you don't have one. 
-     - OS X / \*nix: ensure `JAVA_HOME` is defined and points to the install directory for your JDK. Usually done by the installer automatically, but you'll need to restart any terminals you have open and may need to logout/login if you have an issue.
+     - **OS X / \*nix:** ensure `JAVA_HOME` is defined and points to the install directory for your JDK. Usually done by the installer automatically, but you'll need to restart any terminals you have open and may need to logout/login if you have an issue.
 
 2. Run the app:
 
    - Easy way:
      - Execute the provided `run-applet` script for your OS.
-        - Windows: double-click `run-applet.bat`
-        - OS X / \*nix: Open a terminal in the root folder, and execute: `chmod +x run-applet.sh; ./run-applet.sh`
+        - **Windows:** double-click `run-applet.bat`
+        - **OS X / \*nix:(( Open a terminal in the root folder, and execute: `chmod +x run-applet.sh; ./run-applet.sh`
   - Hard way:
      - Manually build the sources with `javac` and run as you want. 
      - If you don't want/have `appletviewer` on your system (you probably do in `$JAVA_HOME/bin`), you may wish to change the applet `Boolean` setting in primary source file and run with the traditional `java` executable as a console app.
