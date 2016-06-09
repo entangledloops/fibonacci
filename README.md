@@ -9,7 +9,7 @@
 
 ## Instructions
 
-1. Install Java 1.8+ on your machine if it isn't already. (OS X / \*nix: ensure JAVA_HOME is defined and points to the install.)
+1. [Download and install JDK 1.8+](http://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html) on your machine if it isn't already. (OS X / \*nix: ensure `JAVA_HOME` is defined and points to the install.)
 
 2. Run the app:
 
