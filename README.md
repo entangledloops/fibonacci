@@ -2,7 +2,7 @@
 
 **This very simple self-contained Java app is:**
  - primarily meant to demonstrate the relationship between the Fibonacci sequence and the Golden Ratio
- - a thrown-together project for my little cousin that hopefully someone else will benefit from
+ - a thrown-together project for my little cousin that I hope somebody else will benefit from
  - intentionally **not** up to the same standards as my other projects, as it was coded in a couple of hours
 
 ![Fibonacci Lab](http://www.entangledloops.com/img/fibonacci.png)
