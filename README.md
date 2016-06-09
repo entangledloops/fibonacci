@@ -1,7 +1,7 @@
 # Fibonacci Lab
 
 **This very simple self-contained Java app is:**
- - primarily meant to demonstrate the _relationship between the Fibonacci sequence and the Golden Ratio_
+ - primarily __meant to demonstrate the relationship between the Fibonacci sequence and the Golden Ratio__
  - a thrown-together project for my little cousin that I hope somebody else will benefit from
  - intentionally not up to the same standards as my other projects, as it was coded in a couple of hours
 
