@@ -15,8 +15,8 @@
 
    - Easy way:
      - Execute the provided `run-applet` script for your OS.
-       - Windows: double-click `run-applet.bat` on ; execute the \*.sh script for )
-       - OS X/\*nix: Open a terminal in the root folder, and execute: `chmod +x run-applet.sh; ./run-applet.sh`
+        - Windows: double-click `run-applet.bat` on ; execute the \*.sh script for )
+        - OS X/\*nix: Open a terminal in the root folder, and execute: `chmod +x run-applet.sh; ./run-applet.sh`
   - Hard way:
      - Manually build the sources with `javac` and run as you want. 
      - If you don't want/have `appletviewer` on your system (you probably do in `$JAVA_HOME/bin`), you may wish to change the applet `Boolean` setting in primary source file and run with the traditional `java` executable as a console app.
