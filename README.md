@@ -12,7 +12,7 @@
 1. [Download](http://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html) and install a Java Development Kit (JDK; free) 1.8+ on your machine if you don't have one. 
      - **OS X / \*nix:** ensure `JAVA_HOME` is defined and points to the install directory for your JDK. Usually done by the installer automatically, but you'll need to restart any terminals you have open and may need to logout/login if you have an issue.
 
-2. [Download](https://github.com/entangledloops/fibonacci/archive/master.zip) and unzip this project somewhere. If you're a minimalist, you only need to right-click and save<a href="https://github.com/entangledloops/fibonacci/blob/master/Fibonacci.java">`Fibonacci.java`</a> somewhere convenient.
+2. [Download](https://github.com/entangledloops/fibonacci/archive/master.zip) and unzip this project somewhere. If you're a minimalist, you only need to right-click and save <a href="https://github.com/entangledloops/fibonacci/blob/master/Fibonacci.java">`Fibonacci.java`</a> somewhere convenient.
 
 3. Run the app:
 
