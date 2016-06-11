@@ -5,5 +5,5 @@ if [ -z $JAVA_HOME ]; then
 	exit 1
 fi
 
-$JAVA_HOME/bin/javac RowHighlighter.java Fibonacci.java
+$JAVA_HOME/bin/javac Fibonacci.java
 $JAVA_HOME/bin/appletviewer Fibonacci.java
